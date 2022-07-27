@@ -1,1 +1,3 @@
-# 4t-discord-bot
+# discord-bot
+
+### built with discord.js v14
